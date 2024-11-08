@@ -3,7 +3,7 @@ import Counter from './counter';
 
 const Application = () => (
   <main className="flex items-center h-full place-content-center bg-cyan-900">
-    < Counter InitialCounter={0} />
+    < Counter />
   </main>
 );
 
